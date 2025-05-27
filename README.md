@@ -111,27 +111,5 @@ SQL:
 
 ## 📸 Demo Screenshot
 
-*(You can add a Streamlit UI screenshot here to visualize the assistant in action.)*
 
 ---
-
-## 📌 Todo / Improvements
-
-- [ ] Add authentication layer for secure DB access
-- [ ] Dockerize the app for easier deployment
-- [ ] Expand schema coverage and model dataset
-
----
-
-## 🧑‍🏫 Credits
-
-- 🧠 Fine-tuned using Meta's LLaMA 3.2
-- 💾 Oracle SQL example queries and schema from internal test sets
-- 🛠️ Streamlit for the frontend interface
-- 🐍 Python + `llama.cpp` for backend inference
-
----
-
-## 📜 License
-
-MIT License. Use responsibly and give credit if you use this project for your own assistant!
