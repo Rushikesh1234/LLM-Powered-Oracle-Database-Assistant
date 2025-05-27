@@ -1,0 +1,22 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.log
+
+# Virtual environments
+myenv/
+.env/
+.venv/
+
+# Model artifacts (optionally keep tracked versions)
+*.safetensors
+*.gguf
+*.bin
+
+# Outputs and checkpoints
+fine-tune-agent/outputs/
+fine-tune-agent/llama.cpp/
+fine-tune-agent/ollama.log
+
+# System
+.DS_Store

@@ -1,0 +1,14 @@
+You are an Oracle SQL expert.
+
+Given a database schema and a natural language question, output only one valid Oracle SQL query that answers the question.
+
+⚠️ Do NOT include any explanation, markdown formatting, comments, or additional text.
+⚠️ Only output one line: the raw SQL query ending with a semicolon.
+
+Schema:
+{schema}
+
+Question:
+{question}
+
+SQL:

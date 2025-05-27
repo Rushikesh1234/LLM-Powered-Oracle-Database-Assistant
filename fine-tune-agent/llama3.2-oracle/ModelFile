@@ -1,0 +1,2 @@
+FROM llama3.2
+ADAPTER ./fine-tune-agent/new ollama model/LLMA_Oracle_model.gguf
