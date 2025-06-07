@@ -111,6 +111,6 @@ SQL:
 
 ## 📸 Demo Screenshot
 
-[Demo Video for Select Query](https://github.com/user-attachments/assets/243d782d-1619-4379-8279-6ed6e812fd5a)
+![Demo Video for SQL Select Query Execution](https://github.com/user-attachments/assets/6e5dde96-7826-49e2-80ca-669b24320563)
 
 ---
